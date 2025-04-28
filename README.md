@@ -30,6 +30,10 @@ Presentation Room (Canva, Powerpoint)
 #### Presentation, P13, Canva
 * Crime growth on Chicago streets
 
+---
+### "Hi, it's me" scam
+#### Presentation, P8
+* A type of crime in Japan
 
 
 
