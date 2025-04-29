@@ -35,5 +35,9 @@ Presentation Room (Canva, Powerpoint)
 #### Presentation, P8
 * A type of crime in Japan
 
+---
+### 3-slide presentation
+#### Smalltalk, P3
+* Supermarkets in Vancouver
 
 
