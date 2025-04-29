@@ -32,12 +32,12 @@ Presentation Room (Canva, Powerpoint)
 
 ---
 ### "Hi, it's me" scam
-#### Presentation, P8
+#### Presentation, P8, Canva
 * A type of crime in Japan
 
 ---
 ### 3-slide presentation
-#### Smalltalk, P3
+#### Smalltalk, P3, PowerPoint
 * Supermarkets in Vancouver
 
 
