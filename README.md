@@ -43,4 +43,4 @@ Presentation Room (Canva, Powerpoint)
 ---
 ### Superstore_Business_Questions
 #### Assess, P6, Canva
-* Analyze the data files of a sales company, Global Superstore, to gain insight into the company's performance.
+* Analyze the data files of the distributor, Global Superstore, and consider the questions that can be derived from the data columns.
