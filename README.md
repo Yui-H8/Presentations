@@ -1,5 +1,5 @@
 # Presentations
-Presentation Room (Canva, Powerpoint)
+Presentation Room (Canva & Powerpoint)
 ---
 ### Japan
 #### Smalltalk, P6, Canva
