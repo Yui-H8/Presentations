@@ -40,4 +40,7 @@ Presentation Room (Canva, Powerpoint)
 #### Smalltalk, P3, PowerPoint
 * Supermarkets in Vancouver
 
-
+---
+### Superstore_Business_Questions
+#### Assess, P6, Canva
+* Analyze the data files of a sales company, Global Superstore, to gain insight into the company's performance.
