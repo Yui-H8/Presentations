@@ -44,3 +44,8 @@ Presentation Room (Canva & Powerpoint)
 ### Superstore_Business_Questions
 #### Assess, P6, Canva
 * Analyze the data files of the distributor, Global Superstore, and consider the questions that can be derived from the data columns.
+
+---
+### DATA CLEANING AND ANALYSIS OF OLYMPIC ATHLETES DATA PROPOSAL FOR SERVICES
+#### Assess, P4, Word
+* STEP 3: DRAWING CONCLUSIONS 
