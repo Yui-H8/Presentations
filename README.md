@@ -48,4 +48,14 @@ Presentation Room (Canva & Powerpoint)
 ---
 ### DATA CLEANING AND ANALYSIS OF OLYMPIC ATHLETES DATA PROPOSAL FOR SERVICES
 #### Assess, P4, Word
-* STEP 3: DRAWING CONCLUSIONS 
+* STEP 3: DRAWING CONCLUSIONS
+
+---
+### Newyork Taxi Trip
+#### Assess, P9, Canva
+* Analysis and Questions
+
+---
+### Newyork Taxi Trip(Read me file)
+#### Text, P1, Memo
+* Explanation of PowerBI files
