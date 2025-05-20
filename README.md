@@ -59,3 +59,8 @@ Presentation Room (Canva & Powerpoint)
 ### Newyork Taxi Trip(Read me file)
 #### Text, P1, Memo
 * Explanation of PowerBI files
+
+---
+### Newyork Taxi Trip DashBoard
+#### PowerBI, P4, PowerBI file into PDF
+* 4 perspective reports
