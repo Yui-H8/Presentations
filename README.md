@@ -64,3 +64,8 @@ Presentation Room (Canva & Powerpoint)
 ### Newyork Taxi Trip DashBoard
 #### PowerBI, P4, PowerBI file into PDF
 * 4 perspective reports
+
+---
+### Newyork Taxi Trip DashBoard for Mobile
+#### Screen shot, P1, png
+* Mobile layout sample
