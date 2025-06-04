@@ -69,3 +69,13 @@ Presentation Room (Canva & Powerpoint)
 ### Newyork Taxi Trip DashBoard for Mobile
 #### Screen shot, P1, png
 * Mobile layout sample
+
+---
+### titanic
+#### Assess, Python, Jupyter Notebook
+* Data analysis and visualization
+
+---
+### titanic
+#### Assess, P19, Canva
+* Explanation of Python code
