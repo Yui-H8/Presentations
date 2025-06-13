@@ -82,7 +82,7 @@ Presentation Room (Canva & Powerpoint)
 
 ---
 ### E-commerce Wish
-#### Assess BIT, P17
+#### Assess BIT, P17, Canva
 * Sales of summer clothes in E-commerce Wish
 
 
