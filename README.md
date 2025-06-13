@@ -79,3 +79,10 @@ Presentation Room (Canva & Powerpoint)
 ### titanic
 #### Assess, P19, Canva
 * Explanation of Python code
+
+---
+### E-commerce Wish
+#### Assess BIT, P17
+* Sales of summer clothes in E-commerce Wish
+
+
