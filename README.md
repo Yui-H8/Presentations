@@ -85,4 +85,13 @@ Presentation Room (Canva & Powerpoint)
 #### Assess BIT, P17, Canva
 * Sales of summer clothes in E-commerce Wish
 
+---
+### E-commerce Wish PowerBI
+#### Assess BIT, PowerBI
+* Made by team member
 
+---
+### E-commerce Wish python code
+#### Assess BIT, Jupyter Notebook
+* Made by team member
+* Data cleaning
